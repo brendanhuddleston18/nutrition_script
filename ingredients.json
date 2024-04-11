@@ -25,7 +25,7 @@
         "1 cup mixed frozen berries",
         "1/4 cup banana"
     ],
-    "recipes": {
+    "ingredients by recipe": {
         "Green Machine Smoothie": {
             "main": [
                 "1 handful spinach",
@@ -139,7 +139,7 @@
                 "1 cup frozen mango chunks",
                 "1/2 banana",
                 "1/2 cup pineapple chunks",
-                "1 cup coconut water",
+                "1 cup coconut water"
             ],
             "optional": [
                 "1/4 cup Greek yogurt",
