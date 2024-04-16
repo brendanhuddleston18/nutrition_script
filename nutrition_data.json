@@ -1,6 +1,6 @@
 [
     {
-        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f14986afdddb4d49889d87a0f333c5c6",
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_cb490d209e054addb8f87034f6cc7562",
         "calories": 0,
         "totalCO2Emissions": 1.9875000000000003,
         "co2EmissionsClass": "A+",
@@ -546,7 +546,7 @@
         }
     },
     {
-        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_b8e31c8003d5401e982570db7ebfcb19",
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0caa322e7fbd4462ab09db7242f82599",
         "calories": 0,
         "totalCO2Emissions": 1.33875,
         "co2EmissionsClass": "A+",
@@ -1092,7 +1092,7 @@
         }
     },
     {
-        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_4847cb64a6b24ccf90bd8f9d8ddef8e8",
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_ec5aeb699adf43438015a254b314c00d",
         "calories": 160,
         "totalCO2Emissions": 105.525,
         "co2EmissionsClass": "A",
@@ -1637,7 +1637,7 @@
         }
     },
     {
-        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0b3c2a0acb9d402db5b57eb8af495086",
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_4871e1977f7b46a19e6994621faceef2",
         "calories": 74,
         "totalCO2Emissions": 373.10679609400006,
         "co2EmissionsClass": "C",
@@ -2164,7 +2164,7 @@
         }
     },
     {
-        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_536091d273bb484281309b774b44eb24",
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_737aa9cb850e4d74bfabe9d1b4262b8e",
         "calories": 148,
         "totalCO2Emissions": 746.2135921880001,
         "co2EmissionsClass": "D",
@@ -2689,7 +2689,7 @@
         }
     },
     {
-        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f92b4dbe33df47e087ae6b5d98932794",
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_91c9c541db834ba1b7f8f96e09814f16",
         "calories": 2,
         "totalCO2Emissions": 51.354000000000006,
         "co2EmissionsClass": "A",
@@ -3238,7 +3238,7 @@
         }
     },
     {
-        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_ece7695f64bd49008ab773656f939295",
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_cb12c9dca86145e5979f4b2cdae7ccb6",
         "calories": 74,
         "totalCO2Emissions": 2925.2999999999997,
         "co2EmissionsClass": "F",
@@ -3766,7 +3766,7 @@
         }
     },
     {
-        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_02adcd6d750e4b3aa6096a7c051149e1",
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f8495711b32d45ceb72670984daf8ca7",
         "calories": 41,
         "totalCO2Emissions": 64.925,
         "co2EmissionsClass": "A",
@@ -4314,7 +4314,7 @@
         }
     },
     {
-        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_b4a205df7a5246dea68c2963018eb528",
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_19332e11e1f9498484ddacb4b859a4ee",
         "calories": 3,
         "totalCO2Emissions": 2.2253400000000005,
         "co2EmissionsClass": "A+",
@@ -4861,7 +4861,7 @@
         }
     },
     {
-        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_4077fec66a2b4b47b881d4433cd59560",
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_01dd4fcf3f394951aa318c6252c4b336",
         "calories": 2,
         "totalCO2Emissions": 0.9414900000000002,
         "co2EmissionsClass": "A+",
@@ -5397,7 +5397,7 @@
         }
     },
     {
-        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_bda48eb9b1814f82be8a8e62d6d81e9a",
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_98fff2685776471e8561f39103d7ea56",
         "calories": 0,
         "totalCO2Emissions": 0.441666667242512,
         "co2EmissionsClass": "A+",
@@ -5944,7 +5944,7 @@
         }
     },
     {
-        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_e742bf8c1d854a51935fb15fdc120d9f",
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_460d4f2515ff4ad18e34bc6c5387f3d7",
         "calories": 25,
         "totalCO2Emissions": 26.23,
         "co2EmissionsClass": "A+",
@@ -6491,7 +6491,7 @@
         }
     },
     {
-        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_36f78900323644dca752e52255a3c914",
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_c0f785adbaac4a6ca97153b5633cb3c7",
         "calories": 92,
         "totalCO2Emissions": 323.40000000000003,
         "co2EmissionsClass": "C",
@@ -7036,7 +7036,7 @@
         }
     },
     {
-        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_d132ffa7819a4f6c9f8a906cb8f5b0d2",
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f838b705ab8e4d129f7e417b23fbfc89",
         "calories": 22,
         "totalCO2Emissions": 79.765,
         "co2EmissionsClass": "A",
@@ -7582,7 +7582,7 @@
         }
     },
     {
-        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_98623016e7e74d1b846b62d4ee0d4bb2",
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_c23354d50f164c108fb2e1d5ac9adcba",
         "calories": 5,
         "totalCO2Emissions": 6.0420000001021315,
         "co2EmissionsClass": "A+",
@@ -8090,7 +8090,7 @@
         }
     },
     {
-        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_4a772f3e6c694f2d90beb54b81ad544e",
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f76c50027b6d4e26aad9badd615c6b5e",
         "calories": 11,
         "totalCO2Emissions": 17.16,
         "co2EmissionsClass": "A+",
@@ -8639,7 +8639,7 @@
         }
     },
     {
-        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_3803f51cc9cb46528749a4424bf09917",
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f2dbd2cc6c2d4df29ab26839e13c824e",
         "calories": 45,
         "totalCO2Emissions": 103.2,
         "co2EmissionsClass": "A",
@@ -9175,7 +9175,7 @@
         }
     },
     {
-        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f8ae832cdaf34e7ebcf49d4b3f93fd1b",
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_74a6b72ce69d40f3bcfabccde0b13aa3",
         "calories": 104,
         "totalCO2Emissions": 455.94,
         "co2EmissionsClass": "C",
@@ -9721,7 +9721,7 @@
         }
     },
     {
-        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_1f48977ca8384e71b38599c4a6cf9ade",
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_3b187f7a8cd5444eb2cc357d0068c2d8",
         "calories": 99,
         "totalCO2Emissions": 173.25,
         "co2EmissionsClass": "B",
@@ -10267,7 +10267,7 @@
         }
     },
     {
-        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_97cd541f9cc040fda52b7642f6ca3e57",
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_2562bb31b4e2479e861079c339223614",
         "calories": 41,
         "totalCO2Emissions": 86.625,
         "co2EmissionsClass": "A",
@@ -10815,7 +10815,7 @@
         }
     },
     {
-        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_27533d92bef842a6a6b656f10d0c5c96",
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_e9117d7071e843f284c8a4db0dd065c3",
         "calories": 174,
         "totalCO2Emissions": 40.833333315,
         "co2EmissionsClass": "A+",
@@ -11352,7 +11352,7 @@
         }
     },
     {
-        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_2b069db23752498084a250df795d8591",
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_3a7826cbd544488cb3c373fef3e1e40c",
         "calories": 95,
         "totalCO2Emissions": 51.68,
         "co2EmissionsClass": "A",
@@ -11894,7 +11894,7 @@
         }
     },
     {
-        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_814e6bbbecdf430fb3b9f38486008907",
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_280b8397553f4ed8ad121df97a2599f9",
         "calories": 84,
         "totalCO2Emissions": 226.44,
         "co2EmissionsClass": "B",
@@ -12441,7 +12441,7 @@
         }
     },
     {
-        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_ebf8027898fd47b792b98d18b738a54f",
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_da8bec9e9d7b4ee5aa9910d2b9b3e596",
         "calories": 50,
         "totalCO2Emissions": 48.375,
         "co2EmissionsClass": "A+",
